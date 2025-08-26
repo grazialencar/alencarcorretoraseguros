@@ -123,3 +123,33 @@ header button{
     height: 80px;
     border-right: #fff 1.5px solid;
 }
+
+/* ----------------------- analysis ------------------------ */
+
+.container-analysis{
+    text-align: center;
+    padding: 2rem;
+}
+
+.container-analysis h2{
+    font-size: 2rem;
+    color: #072A49;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.container-analysis .line{
+    width: 50%;
+    height:  2px;
+    background: #072A49;
+    margin: 2rem auto;
+}
+
+.container-analysis p{
+    color: #484848;
+    font-size: 1.4rem;
+    max-width: 450px;
+    margin: 0 auto;
+}
